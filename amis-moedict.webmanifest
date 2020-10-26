@@ -1,0 +1,19 @@
+{
+  "name": "阿美語萌典",
+  "short_name": "阿美語萌典",
+  "description": "阿美族語線上字典，來源為台灣聖經公會、方敏英神父、潘世光神父、博利亞神父、蔡中涵博士。辭典本文的著作權仍為各該著作人所有。",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen"
+}
